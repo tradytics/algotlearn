@@ -1,2 +1,6 @@
+<p align="center">
+  <img width="350" src="figures/logo.png">
+</p>
+
 # algotlearn
-Resources that we ourselves use to learn more about algotrading.
+Algotrading learning resources curated by Tradytics.
