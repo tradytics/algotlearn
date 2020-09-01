@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" src="figures/logo.png">
+  <img width="350" src="figures/algotlearn.png">
 </p>
 
 # algotlearn
